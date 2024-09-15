@@ -1,0 +1,3 @@
+Streams in Node.js
+ 
+The stream technique is one of the fundamental concepts that support Node.js applications to work. It can handle file read and write, network communication, or any workload to run more efficiently.
